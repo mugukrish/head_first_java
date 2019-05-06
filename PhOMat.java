@@ -8,7 +8,6 @@ public class PhOMat{
     int r2 =(int) (Math.random() * word2.length);
     int r3 =(int) (Math.random() * word3.length);
 
-    System.out.println((Math.random() * word1.length));
     System.out.println(word1[r1] +" "+ word2[r2] +" "+word3[r3]);
 
    }
